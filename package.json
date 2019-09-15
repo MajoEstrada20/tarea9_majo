@@ -1,0 +1,19 @@
+{
+  "name": "tarea9.majo",
+  "version": "1.0.0",
+  "engines": {
+    "node": "7.6.x"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "server": "^1.0.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo\"Error: no test specified\"&& exit 1"
+  },
+  "author": "Majo Estrada",
+  "license": "ISC",
+  "description": ""
+}
